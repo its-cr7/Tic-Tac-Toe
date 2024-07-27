@@ -36,6 +36,4 @@ A simple web-based Tic Tac Toe game using HTML, CSS, and JavaScript.
 
 Contributions are welcome! Fork the repository, create a branch, make changes, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
